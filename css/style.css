@@ -332,10 +332,10 @@ h2 {
 @media (max-width: 320px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 20px; line-height: 30px;}
+	#countdown div span {font-size: 20px; line-height: 25px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
 	/* TITLE & CONTACT */
-	.background{background-image: url(../images/fly2.png);}
+	.background{background-image: url(../images/fly3.png);}
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
 	/* SIZES */
@@ -411,7 +411,7 @@ h2 {
 @media all and (min-width: 400px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
-	#countdown div span {font-size: 24px; line-height: 28px;}
+	#countdown div span {font-size: 24px; line-height: 25px;}
 	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
