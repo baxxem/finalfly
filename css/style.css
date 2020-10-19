@@ -496,7 +496,7 @@ h2 {
 	.contact { bottom: 10%; }
 	.contact .icons { margin-bottom: 12px; }
 	/* SIZES */
-	.background{background-image: url(../images/fly3.png);}
+	.background{background-image: url(../images/background.jpg);}
 	.sphere img{
 		-webkit-transform: scale(1);
 		-moz-transform: scale(1);
