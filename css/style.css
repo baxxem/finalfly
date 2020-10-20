@@ -411,7 +411,7 @@ h2 {
 @media all and (min-width: 400px) {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; padding-bottom: 10px; }
-	#countdown div span {font-size: 30px; line-height: 34px; padding-right: 20px; padding-left: 20px; }
+	#countdown div span {font-size: 30px; line-height: 34px; padding-right: 30px; padding-left: 30px; }
 	.sub-title { font-size: 20px; line-height: 20px; ; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
@@ -489,7 +489,7 @@ h2 {
 @media all and (min-width: 700px) {
 	/* HERO */
 	h1 { font-size: 90px; line-height: 90px; }
-	.sub-title { font-size: 20px; line-height: 20px; margin-top: 10px; }
+	.sub-title { font-size: 20px; line-height: 20px; margin-top: 10px; padding-left:30px; padding-right: 30px;}
 	/* TITLE & CONTACT */
 	.title { top: 18%;}
 	.line { margin-top: 20px; }
