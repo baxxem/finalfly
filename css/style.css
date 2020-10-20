@@ -331,9 +331,10 @@ h2 {
 
 @media (max-width: 480px) {
 	/* HERO */
-	h1 { font-size: 30px; line-height: 40px; padding-bottom: 10px; }
-	#countdown div span {font-size: 24px; line-height: 34px; }
-	.sub-title { font-size: 20px; ; line-height:20px; ; margin-top: 10px; }
+	h1 { font-size: 20px; line-height: 30px; padding-bottom: 10px; padding-top: 80px; }
+	
+	#countdown div span {font-size: 20px; line-height: 34px;  }
+	.sub-title { font-size: ; ; line-height:; ; margin-top:  }
 	/* TITLE & CONTACT */
 	.background{background-image: url(../images/fly3.png);}
 	.title { top: 15%;}
@@ -410,9 +411,11 @@ h2 {
 /* Landscape Phone */
 @media all and (min-width: 400px) {
 	/* HERO */
-	h1 { font-size: 20px; line-height: 40px; padding-bottom: 10px; }
+	h1 { font-size: 20px; line-height: 30px; padding-bottom: 10px;
+	 }
+	
 	#countdown div span {font-size: 16px; line-height: 34px;  }
-	.sub-title { font-size: 20px; line-height: 20px; ; margin-top: 5px; }
+	.sub-title { font-size: ; line-height: ;  margin-top: ; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
